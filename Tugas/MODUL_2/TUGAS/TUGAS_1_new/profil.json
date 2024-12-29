@@ -1,0 +1,15 @@
+{
+    "admin": {
+        "role": "admin",
+        "nama": "Admin A",
+        "email": "admin@example.com"
+    },
+    "202210370311060": {
+        "role": "user",
+        "nama": "Muhammad Hisyam Kamil",
+        "email": "hisyam@kamil.my.id"
+    },
+    "202210370311002": {
+        "role": "user"
+    }
+}

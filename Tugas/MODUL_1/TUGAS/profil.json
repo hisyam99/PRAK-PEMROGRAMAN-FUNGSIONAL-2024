@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "nama": "admin",
+        "email": "admin",
+        "role": "admin"
+    },
+    "202210370311060": {
+        "role": "user",
+        "nama": "Hisyam",
+        "email": "hisyamkamil99@gmail.com"
+    },
+    "202210370311001": {
+        "role": "user",
+        "nama": "user",
+        "email": "user@gmail.com"
+    },
+    "202210370311002": {
+        "role": "user",
+        "nama": "User2",
+        "email": "email@gmai;.com"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "judul": "AkuBuku",
+        "penulis": "Admin Hisyam",
+        "kategori": "Fiksi",
+        "jumlah": 4
+    },
+    "2": {
+        "judul": "Sang Purnama",
+        "penulis": "Ayu Pratiwi",
+        "kategori": "Fiksi",
+        "jumlah": 7
+    },
+    "3": {
+        "judul": "Rahasia Senja",
+        "penulis": "Doni Saputra",
+        "kategori": "Fiksi",
+        "jumlah": 5
+    },
+    "4": {
+        "judul": "Mimpi di Ujung Jalan",
+        "penulis": "Intan Permata",
+        "kategori": "Fiksi",
+        "jumlah": 3
+    },
+    "5": {
+        "judul": "Jalan Tak Berujung",
+        "penulis": "Rizal Mahendra",
+        "kategori": "Non-fiksi",
+        "jumlah": 6
+    },
+    "99": {
+        "judul": "Testing",
+        "penulis": "aku",
+        "kategori": "Sejarah",
+        "jumlah": 1
+    }
+}
