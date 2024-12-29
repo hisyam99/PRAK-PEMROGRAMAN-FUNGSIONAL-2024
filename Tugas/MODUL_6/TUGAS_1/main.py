@@ -29,7 +29,7 @@ def process_image(input_path, output_path):
     # Step 5: Konversi ke format Pillow untuk peningkatan saturasi lebih lanjut
     pil_img = Image.fromarray(cv2.cvtColor(img_final, cv2.COLOR_BGR2RGB))
     enhancer = ImageEnhance.Color(pil_img)
-    pil_img_enhanced = enhancer.en  hance(1.5)  # Tingkatkan saturasi lebih lanjut
+    pil_img_enhanced = enhancer.enhance(1.5)  # Tingkatkan saturasi lebih lanjut
 
     # Step 6: Crop gambar
     cropped_img = pil_img_enhanced.crop((0, 25, 500, 440))
